@@ -27,6 +27,6 @@ module.exports = {
   "url": "~0.10.1",
   "util": "~0.10.1",
   "utp": "0.0.8",
-  "react-native-tcp-socket": "4.5.6",
+  "react-native-tcp-socket": "4.5.7",
   "vm-browserify": "~0.0.1"
 }
