@@ -27,6 +27,6 @@ module.exports = {
   "tty-browserify": "0.0.0",
   "url": "~0.10.1",
   "util": "~0.10.3",
-  "react-native-tcp": "4.0.0",
+  "react-native-tcp-socket": "4.5.7",
   "vm-browserify": "0.0.4"
 }
